@@ -1,0 +1,15 @@
+Package: summerfoo
+Title: Really Cool Stuff
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "Amelia A",
+           family = "McNamara",
+           role = c("aut", "cre"),
+           email = "amelia.mcnamara@stthomas.edu")
+Description: This package is from summer 2021, and it is going to do really cool stuff. 
+License: `use_mit_license()`, `use_gpl3_license()` or friends to pick a
+    license
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.1
